@@ -1,0 +1,6 @@
+[submodule "fairseq"]
+	path = fairseq
+	url = ./SageMaker/all_backup/EmoWild_github/fairseq
+[submodule "OFA"]
+	path = OFA
+	url = ./SageMaker/all_backup/EmoWild_github/OFA

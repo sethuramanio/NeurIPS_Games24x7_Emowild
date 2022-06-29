@@ -1,7 +1,5 @@
 # Emowild: Building an In-the-Wild Non-Cognizant Image Emotion Dataset
 
-# coming soon...
-
 **This repository contains the code to reproduce the EmoWild experiments discussed in the paper**
 
 Estimating the perceived emotion to visual stimuli has gained significant traction in recent years. However, the data curated through subjective studies for this purpose are typically

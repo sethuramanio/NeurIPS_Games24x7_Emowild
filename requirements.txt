@@ -1,0 +1,5 @@
+pip install tensorflow==2.3.0
+pip install tensorflow_hub
+pip install --use-feature=in-tree-build fairseq/
+pip install --use-feature=in-tree-build fairseq/
+sed '1d' OFA/requirements.txt | xargs -I {} pip install {}

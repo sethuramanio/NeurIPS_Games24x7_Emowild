@@ -22,4 +22,4 @@ As a result, previous emotion estimation models built on such non-cognizant data
 4. Upload images to test to imageSamples directory and execute test.py
 5. Sample commmand to execute with deafult options:
 
-    (i) !python test.py
+    (i) !python test.py;

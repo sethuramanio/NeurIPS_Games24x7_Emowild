@@ -20,6 +20,7 @@ As a result, previous emotion estimation models built on such non-cognizant data
 2. The code uses certain modules from tensorflow - please refer to requirements.txt for the same
 3. Compile OFA modules and downlaod latest OFA checkpoint following the instructions from their github repo
 4. Upload images to test to imageSamples directory and execute test.py
-5. Sample commmand to execute with deafult options:
-
-    (i) !python test.py;
+5. Sample commmand to execute with deafult options 
+'''
+!python test.py
+'''

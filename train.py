@@ -11,7 +11,7 @@ from torch.utils.data import DataLoader
 
 parser = argparse.ArgumentParser(formatter_class=argparse.ArgumentDefautsHelpFormatter)
 
-parser.add_argument('gtTrainCSV', type=str, default='EmoWild/GT/EmoWild_Valence_Train.csv', help='path to EmoWild train csv')
+parser.add_argument('gtTrainCSV', type=str, default='EmoWild/EmoWild_Valence_Train.csv', help='path to EmoWild train csv')
 parser.add_argument('dataDir', type=str, default='EmoWild/Images', help='path to EmoWild images')
 parser.add_argument('ofaEncodeDir', type=str, default='EmoWild/OFA_encodings', help='path to EmoWild OFA encodings')
 parser.add_argument('bertEncodeDir', type=str, default='EmoWild/BERT_encodings', help='path to EmoWild BERT encodings')

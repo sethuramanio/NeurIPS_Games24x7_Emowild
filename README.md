@@ -12,6 +12,8 @@ As a result, previous emotion estimation models built on such non-cognizant data
     (i) a unique dataset corpus of 40k in-the-wild images EmoWild with continuous valence and arousal values from relatively subliminal comments of the users on social media, while analyzing and equitably accounting for the user persona; and 
     
     (ii) Cognitive Contextual Summarization model that takes the captions generated from the images and feeds them to a BERT network----for contextual understanding, that typically evokes human emotion---thereby enabling continuous emotion estimation. The EmoWild dataset augments the model's ability to generalize better on a variety of images and datasets.
+    
+Link to Dataset - https://drive.google.com/drive/folders/1-lOnTw0ztmc-JvqhuJ6cKvJ5cJqaZLyN?usp=sharing
 
 
 # 📝 Instruction

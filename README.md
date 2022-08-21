@@ -13,7 +13,7 @@ As a result, previous emotion estimation models built on such non-cognizant data
     
     (ii) Cognitive Contextual Summarization model that takes the captions generated from the images and feeds them to a BERT network----for contextual understanding, that typically evokes human emotion---thereby enabling continuous emotion estimation. The EmoWild dataset augments the model's ability to generalize better on a variety of images and datasets.
     
-Link to Dataset - https://drive.google.com/drive/folders/1-lOnTw0ztmc-JvqhuJ6cKvJ5cJqaZLyN?usp=sharing
+Link to Dataset - https://drive.google.com/drive/folders/1gZSEYXq6P84vA4fURoW14wbNYa7qtBgL
 
 GT Labels are available as csv files in the repo at location EmoWild/ 
 

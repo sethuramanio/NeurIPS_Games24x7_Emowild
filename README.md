@@ -15,7 +15,7 @@ As a result, previous emotion estimation models built on such non-cognizant data
     
 Link to Dataset - https://drive.google.com/drive/folders/1gZSEYXq6P84vA4fURoW14wbNYa7qtBgL
 
-GT Labels are available as csv files in the repo at location EmoWild/ 
+GT Labels are available as **csv** files in the repo at location '''EmoWild/'''
 
 
 # 📝 Instruction

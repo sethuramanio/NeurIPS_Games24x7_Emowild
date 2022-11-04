@@ -15,14 +15,14 @@ As a result, previous emotion estimation models built on such non-cognizant data
     
 Link to Dataset - https://drive.google.com/drive/folders/1gZSEYXq6P84vA4fURoW14wbNYa7qtBgL
 
-GT Labels are available as **csv** files in the repo at location '''EmoWild/'''
+GT Labels are available as _csv_ files in the repo at location EmoWild/
 
 
 # 📝 Instruction
 
-1. Setup condo environment with latest pytroch version and python 3.6 for smooth execution
-2. The code uses certain modules from tensorflow - please refer to requirements.txt for the same
-3. Compile OFA modules and downlaod latest OFA checkpoint following the instructions from their github repo
+1. Setup the conda environment with the latest pytroch version and python 3.6 for smoother execution. 
+2. This implementation( code base) uses certain modules from tensorflow - please refer to requirements.txt for the same.
+3. Compile OFA modules and downlaod latest OFA checkpoint following the instructions from their github repo. 
 4. Upload images to test to imageSamples directory and execute test.py
 5. Sample commmand to execute with deafult options 
 ```
